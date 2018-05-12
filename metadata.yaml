@@ -1,4 +1,5 @@
 _repo: Of-Gardens-An-essay_46964
+_version: 0.1.0
 contributor:
   illustrators:
   - agent_name: Pissarro, Lucien
@@ -9,6 +10,9 @@ contributor:
   - agent_name: Pissarro, Esther
     gutenberg_agent_id: '44061'
     url: http://www.gutenberg.org/2009/agents/44061
+covers:
+- cover_type: archival
+  image_path: 46964-h/images/cover.jpg
 creator:
   author:
     agent_name: Bacon, Francis
@@ -21,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/296
     wikipedia: http://en.wikipedia.org/wiki/Francis_Bacon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46964#Of-Gardens-An-essay
 gutenberg_issued: '2014-09-25'
 gutenberg_type: Text
 identifiers:
